@@ -1,0 +1,13 @@
+{
+  "name": "rollup-learn",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "license": "MIT",
+  "dependencies": {
+    "lodash-es": "^4.17.21",
+    "rollup": "^3.29.1",
+    "rollup-plugin-commonjs": "^10.1.0",
+    "rollup-plugin-json": "^4.0.0",
+    "rollup-plugin-node-resolve": "^5.2.0"
+  }
+}

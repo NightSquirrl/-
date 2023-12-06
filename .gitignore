@@ -1,3 +1,4 @@
 rollup/node_modules
 rollup/dist
 .history
+.idea
